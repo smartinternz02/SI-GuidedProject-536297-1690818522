@@ -11,3 +11,4 @@ Story - Story.pdf <br />
 Report - Report.pdf <br />
 Project Report - Project report IBM Data Analytics.pdf <br />
 Demonstration Video - demo.mp4 <br />
+Output screenshots - Output.pdf <br />
